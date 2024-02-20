@@ -16,7 +16,7 @@ Eu sou a Paula Saraiva, sou uma programadora Front-End, atualmente estou criando
 <br>
   :large_blue_diamond: Estou trilhando a jornada de estudos a fim de me tornar uma desenvolvedora full stack.
   <br><br>
-  :large_blue_diamond: Cursando engenharia de software e escola de formação [<em>Full Stack DevClub<em>] (https://rodolfomori.com.br/missao-programador-do-zero-cv2/), onde estou aprendendo e praticando diversos projetos .
+  :large_blue_diamond: Cursando engenharia de software e escola de formação [Full Stack DevClub](https://rodolfomori.com.br/missao-programador-do-zero-cv2/) onde estou aprendendo e praticando diversos projetos .
   <br><br>
   :large_blue_diamond: Apaixonada por tecnologia e inovação.
 <br>
