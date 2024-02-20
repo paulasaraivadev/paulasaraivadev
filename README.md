@@ -9,6 +9,7 @@ Eu sou a Paula Saraiva, sou uma programadora Front-End, atualmente estou criando
   - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-javascript" />
   - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="logo-typescript" />
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
+  - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-github"/>
 <br>
   :large_blue_diamond: Estou trilhando a jornada de estudos a fim de me tornar uma desenvolvedora full stack.
   <br><br>
