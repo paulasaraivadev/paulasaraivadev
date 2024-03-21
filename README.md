@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Olá :wave:
 
 Eu sou a Paula Saraiva, sou uma programadora Front-End, atualmente estou criando projetos com:
 <br>
